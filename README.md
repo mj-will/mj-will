@@ -1,4 +1,4 @@
-### Hey, I'm Michael J. Williams there 👋
+### Hey, I'm Michael J. Williams 👋
 
 I'm a PhD student at the [University of Glasgow](https://www.gla.ac.uk/) where I work on applications of machine learing to gravitaitonal-wave data analysis.
 
